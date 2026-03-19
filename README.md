@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priya%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priya%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20200K%2B%20Learners%20%7C%20170%2B%20Countries&descAlignY=55&descSize=16"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ class PriyaJha:
         self.passion     = "Building AI systems that actually work in the real world"
         self.currently   = "Multi-modal AI, LLMs, RAG pipelines & Agentic AI"
         self.published   = "VisualAid @ W4A 2025 — Delegates Award Winner 🏆"
-        self.coursera    = "200,000+ students taught across 170+ countries 🌍"
+        self.teaching    = "200,000+ students on Coursera + Udemy across 170+ countries 🌍"
         self.open_source = "Open Source Contributor @ Expensify 🔓"
         self.fun_fact    = "I debug ML models the same way I debug life — one layer at a time 🧠"
 
@@ -241,7 +241,7 @@ Working on a **Multi-Modal Women's Health & Diagnostic Platform** — an AI syst
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 📊 Data Analytics Intern — *Group O, Texas*
@@ -274,10 +274,10 @@ Designed and implemented **Snowflake schema dimensional models** in **Microsoft 
   &nbsp;
   <img src="https://img.shields.io/badge/🗺️%20170%2B%20Countries-00C49F?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera%20%2B%20Udemy-A855F7?style=for-the-badge&logoColor=white" />
 </p>
 
-Designed and delivered **hands-on, end-to-end Data Science & Engineering projects** to **200,000+ learners across 170+ countries** on Coursera — covering cutting-edge topics across AI, ML, Deep Learning, Big Data, Blockchain, NFTs, and modern development.
+Designed and delivered **hands-on, end-to-end Data Science & Engineering projects** to **200,000+ learners across 170+ countries** on Coursera & Udemy — covering cutting-edge topics across AI, ML, Deep Learning, Big Data, Blockchain, NFTs, and modern development.
 
 - 🤖 **AI & Machine Learning** — Concepts of ML, supervised/unsupervised learning, model evaluation & deployment
 - 🧠 **Deep Learning** — CNN architectures, transfer learning, image classification, medical AI
@@ -293,6 +293,12 @@ Designed and delivered **hands-on, end-to-end Data Science & Engineering project
 
 &nbsp;&nbsp;&nbsp;🎗️ **Breast Cancer Classification** — Random Forest, SVM & Logistic Regression with cross-validation
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ### 🔓 Open Source Contributor — *Expensify*
 
 Contributed to **Expensify**, a leading open-source expense management platform used by millions worldwide.
@@ -301,12 +307,6 @@ Contributed to **Expensify**, a leading open-source expense management platform 
 - 🔧 Submitted pull requests improving UI/UX consistency and fixing reported issues
 - 📋 Engaged with the open-source community through issue tracking, code reviews, and collaborative problem-solving
 - 🌐 Contributed to a **top open-source project** on GitHub with an active global contributor community
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
-</p>
 
 ---
 
@@ -319,7 +319,7 @@ Contributed to **Expensify**, a leading open-source expense management platform 
 | 🏆 **Delegates Award Winner** | W4A 2025 — Web for All Conference (VisualAid paper) |
 | 📄 **Published Researcher** | [VisualAid @ W4A '25](https://doi.org/10.1145/3744257.3744277) — ACM Digital Library |
 | 🎓 **GHC Scholar 2024** | AnitaB.org Advancing Inclusion Scholarship — Grace Hopper Celebration |
-| 🌍 **200K+ Learners Worldwide** | Taught on Coursera across 170+ countries — AI, ML, Big Data, Blockchain |
+| 🌍 **200K+ Learners Worldwide** | Coursera + Udemy across 170+ countries — AI, ML, Big Data, Blockchain |
 | 🔓 **Open Source Contributor** | Expensify — React Native & web contributions |
 | 🥈 **ICT Award Nepal 2020 Finalist** | Top finalist among 300+ applicants — COVID-19 Pneumonia Detection |
 | 🏅 **National Locus Exhibition Winner** | Smart Street Monitoring System — Thematic Electrical category |
