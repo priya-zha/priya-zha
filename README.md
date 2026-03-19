@@ -103,94 +103,118 @@ me.say_hi()
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>👁️ VisualAid — Published Research 🏆</h3>
-      <p>AI-powered Android app for blind & visually impaired users. Combines <strong>BLIP</strong> for image captioning, <strong>ViLT</strong> for visual Q&A, <strong>YOLO</strong> for object detection, and <strong>OCR</strong> for text reading — all via voice commands.</p>
+      <p>AI-powered Android app for blind &amp; visually impaired users. Combines <strong>BLIP</strong> for image captioning, <strong>ViLT</strong> for visual Q&amp;A, <strong>YOLO</strong> for object detection, and <strong>OCR</strong> for text reading — all via voice commands.</p>
       <p><strong>Published @ W4A 2025 · Delegates Award Winner</strong></p>
-      <a href="https://github.com/priya-zha/Software-Engineering-Project">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://doi.org/10.1145/3744257.3744277">
-        <img src="https://img.shields.io/badge/Read%20Paper-00A86B?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>YOLO · BLIP · ViLT · ViT · Flask · Android · OCR · TTS</code>
+      <p>
+        <a href="https://github.com/priya-zha/Software-Engineering-Project">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://doi.org/10.1145/3744257.3744277">
+          <img src="https://img.shields.io/badge/Read%20Paper-00A86B?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>YOLO · BLIP · ViLT · ViT · Flask · Android · OCR · TTS</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>🤖 AbleChatbot — RAG + Gemma LLM</h3>
       <p>Customer support chatbot using <strong>Gemma 7B-IT</strong> and <strong>LlamaIndex RAG</strong> to answer queries from internal company documentation. Supports both Python CLI and Gradio web interface.</p>
       <br/>
-      <a href="https://github.com/priya-zha/AbleChatbot-RAG-Powered-Chatbot-using-Gemma-LlamaIndex">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>Gemma 7B · LlamaIndex · RAG · HuggingFace · Gradio</code>
+      <p>
+        <a href="https://github.com/priya-zha/AbleChatbot-RAG-Powered-Chatbot-using-Gemma-LlamaIndex">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Gemma 7B · LlamaIndex · RAG · HuggingFace · Gradio</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Neuroscience & EEG Hearing Aid Research</h3>
-      <p>Clinical ML research predicting hearing aid success from <strong>EEG brain signal patterns</strong>. Applied SHAP values for explainability, helping audiologists identify ideal candidates for hearing aids.</p>
-      <br/>
-      <a href="https://github.com/priya-zha">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>Python · EEG · ML · SHAP · Neural Signal Processing</code>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3>🧠 EEG Neuroscience — Hearing Aid Research</h3>
+      <p>Summer Research Bootcamp @ UNT — Clinical ML study predicting hearing aid success from <strong>EEG brain signal patterns</strong>. Applied SHAP explainability to help audiologists identify the best candidates for hearing aids.</p>
+      <p>
+        <a href="https://github.com/priya-zha">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Python · EEG · ML · SHAP · Neural Signal Processing · Pandas</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>✈️ American Airlines Flight Analytics</h3>
       <p>Analyzed <strong>700K+ flight records</strong> from DFW Airport. Star schema dimensional model + Power BI dashboards revealing delay patterns, taxi-out inefficiencies, and tail-number correlations.</p>
-      <br/>
-      <a href="https://github.com/priya-zha/American-Airlines-Flight-Delay-Analytics">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>Power BI · Python · Star Schema · Dimensional Modeling</code>
+      <p>
+        <a href="https://github.com/priya-zha/American-Airlines-Flight-Delay-Analytics">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Power BI · Python · Star Schema · Dimensional Modeling</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>🎓 Student Success Project — UNT CSE</h3>
-      <p>Collaborated with UNT's CSE department to analyze student data and predict admission decisions using <strong>ML + deep learning</strong>. Developed Tableau dashboards for academic insights.</p>
-      <br/>
-      <a href="https://github.com/priya-zha">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>Scikit-Learn · Keras · TensorFlow · Tableau · Pandas</code>
+      <p>Collaborated with UNT's CSE department to analyze student academic data and predict admission decisions using <strong>ML + deep learning</strong>. Built Tableau dashboards for department-level insights.</p>
+      <p>
+        <a href="https://github.com/priya-zha">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Scikit-Learn · Keras · TensorFlow · Tableau · Pandas · Plotly</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>⚡ Real-Time Diabetes Detection — Big Data</h3>
       <p>End-to-end big data pipeline on a <strong>4-node AWS EC2 cluster</strong> simulating real-time EHR data. Kafka → Spark Streaming → PySpark ML → Cassandra with geospatial Nepal district mapping.</p>
-      <br/>
-      <a href="https://github.com/priya-zha/BigData-Architecture-Diabetes-Prediction">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>AWS EC2 · Kafka · Spark · Hadoop · Cassandra · PySpark</code>
+      <p>
+        <a href="https://github.com/priya-zha/BigData-Architecture-Diabetes-Prediction">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>AWS EC2 · Kafka · Spark · Hadoop · Cassandra · PySpark · Django</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>🫘 Kidney Tumor Classification</h3>
       <p>CT scan image classifier using <strong>custom CNN + VGG transfer learning</strong>. Deployed as a Streamlit web app where users upload scans and get instant tumor/normal predictions with confidence scores.</p>
-      <br/>
-      <a href="https://github.com/priya-zha/Kidney-Tumor-Classification">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>TensorFlow · VGG · Transfer Learning · Streamlit</code>
+      <p>
+        <a href="https://github.com/priya-zha/Kidney-Tumor-Classification">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>TensorFlow · VGG · Transfer Learning · Streamlit · Keras</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 16px;">
       <h3>📈 Stock Market Forecasting — LSTM</h3>
       <p>LSTM-powered web app forecasting <strong>Tesla stock prices</strong> using historical data from Yahoo Finance. Users pick a date range and get interactive Plotly forecasts with a data table.</p>
-      <br/>
-      <a href="https://github.com/priya-zha/timeseries">
-        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <code>Keras · LSTM · yfinance · Plotly · Streamlit</code>
+      <p>
+        <a href="https://github.com/priya-zha/timeseries">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Keras · LSTM · yfinance · Plotly · Streamlit · MinMaxScaler</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3>💡 Smart Street Light Monitoring System 🏅</h3>
+      <p><strong>National Locus Exhibition Winner</strong> — Arduino-powered intelligent street lighting that stays <strong>dim during inactivity</strong> to save energy and <strong>brightens instantly</strong> when pedestrians or vehicles are detected via motion sensors.</p>
+      <p>
+        <a href="https://github.com/priya-zha/Smart-Street-Light-Monitoring-System">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Arduino · PIR Sensor · PWM · Embedded C · IoT · Energy Optimization</code></p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3>😷 COVID Face Mask Detector</h3>
+      <p>Real-time face mask detection from live video streams using a trained <strong>CNN model + OpenCV</strong>. Draws bounding boxes and labels each detected face as Mask or No Mask in real time.</p>
+      <p>
+        <a href="https://github.com/priya-zha/COVID-Face-Mask-Detection-using-TensorFlow-and-OpenCV">
+          <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>TensorFlow · Keras · OpenCV · Haar Cascade · NumPy</code></p>
     </td>
   </tr>
 </table>
@@ -200,9 +224,7 @@ me.say_hi()
 ## 💼 Experience
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Jan%202026%20–%20Present-A855F7?style=for-the-badge&logoColor=white" />
-
 </p>
 
 ### 🔬 AI / ML Engineer — *Phylactics Inc, Texas*
@@ -212,9 +234,7 @@ me.say_hi()
 ---
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
-
 </p>
 
 ### 📊 Data Analytics Intern — *Group O, Texas*
@@ -226,9 +246,7 @@ me.say_hi()
 ---
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Aug%202020%20–%20May%202023-EC4899?style=for-the-badge&logoColor=white" />
-
 </p>
 
 ### 👩‍🏫 Guided Project Instructor — *Coursera Inc, California*
@@ -255,7 +273,7 @@ me.say_hi()
 | 🧑‍💻 **Organizer — Yomari Code Camp** | Platform for students & researchers to build real apps |
 | ⚡ **UNT Annual Hackathon** | Built a real-time food availability alert app for university students |
 | 🔬 **Quantum & Everest Hackathon** | Nepal hackathon participant |
-| 🔭 **Summer Research Bootcamp @ UNT** | ML research on hearing aid adoption factors |
+| 🔭 **Summer Research Bootcamp @ UNT** | EEG-based ML research predicting hearing aid adoption & success |
 
 </p>
 
