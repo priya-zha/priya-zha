@@ -99,66 +99,165 @@ me.say_hi()
 
 ---
 
-## `> ls projects/ --featured`
+## 🚀 Featured Projects
 
-| 🚀 Project | 🔬 What it does | 🛠️ Stack |
-|---|---|---|
-| [**VisualAid** 🏆 Published](https://github.com/priya-zha/Software-Engineering-Project) | AI app for visually impaired — BLIP, ViLT, YOLO, OCR, TTS. Published @ W4A 2025 | YOLO, BLIP, ViT, Flask, Android |
-| [**AbleChatbot**](https://github.com/priya-zha/AbleChatbot-RAG-Powered-Chatbot-using-Gemma-LlamaIndex) | RAG chatbot powered by Gemma 7B + LlamaIndex for customer support | Gemma, LlamaIndex, Gradio |
-| [**Kidney Tumor Detection**](https://github.com/priya-zha/Kidney-Tumor-Classification) | CT scan classifier with VGG transfer learning + Streamlit UI | TensorFlow, VGG, Streamlit |
-| [**Real-Time Diabetes Pipeline**](https://github.com/priya-zha/BigData-Architecture-Diabetes-Prediction) | End-to-end EHR pipeline — Kafka + Spark + Cassandra + Django | AWS EC2, Kafka, Spark, Cassandra |
-| [**Stock Forecasting**](https://github.com/priya-zha/timeseries) | LSTM-powered Tesla stock price predictor with Plotly dashboard | Keras, yfinance, Plotly, Streamlit |
-| [**COVID Mask Detector**](https://github.com/priya-zha/COVID-Face-Mask-Detection-using-TensorFlow-and-OpenCV) | Real-time face mask detection from live video stream | TensorFlow, OpenCV, Haar Cascade |
-| [**Hearing Aid EEG Research**](https://github.com/priya-zha) | ML model predicting hearing aid success from EEG brain signals | Python, ML, SHAP, EEG Analysis |
-| [**Student Success @ UNT**](https://github.com/priya-zha) | ML + deep learning to predict student admission decisions at UNT | Scikit-Learn, Keras, Tableau |
-| [**American Airlines Analytics**](https://github.com/priya-zha) | Analyzed 700K+ flight records for delay patterns & operational insights | Power BI, Python, Star Schema |
-| [**AutoRepair Android**](https://github.com/priya-zha/AutoRepair-Android-Car-Repair-Service-App) | Car repair service booking Android app with Firebase backend | Java, Firebase, Google Maps |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ VisualAid — Published Research 🏆</h3>
+      <p>AI-powered Android app for blind & visually impaired users. Combines <strong>BLIP</strong> for image captioning, <strong>ViLT</strong> for visual Q&A, <strong>YOLO</strong> for object detection, and <strong>OCR</strong> for text reading — all via voice commands.</p>
+      <p><strong>Published @ W4A 2025 · Delegates Award Winner</strong></p>
+      <a href="https://github.com/priya-zha/Software-Engineering-Project">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://doi.org/10.1145/3744257.3744277">
+        <img src="https://img.shields.io/badge/Read%20Paper-00A86B?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>YOLO · BLIP · ViLT · ViT · Flask · Android · OCR · TTS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AbleChatbot — RAG + Gemma LLM</h3>
+      <p>Customer support chatbot using <strong>Gemma 7B-IT</strong> and <strong>LlamaIndex RAG</strong> to answer queries from internal company documentation. Supports both Python CLI and Gradio web interface.</p>
+      <br/>
+      <a href="https://github.com/priya-zha/AbleChatbot-RAG-Powered-Chatbot-using-Gemma-LlamaIndex">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>Gemma 7B · LlamaIndex · RAG · HuggingFace · Gradio</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Neuroscience & EEG Hearing Aid Research</h3>
+      <p>Clinical ML research predicting hearing aid success from <strong>EEG brain signal patterns</strong>. Applied SHAP values for explainability, helping audiologists identify ideal candidates for hearing aids.</p>
+      <br/>
+      <a href="https://github.com/priya-zha">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>Python · EEG · ML · SHAP · Neural Signal Processing</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ American Airlines Flight Analytics</h3>
+      <p>Analyzed <strong>700K+ flight records</strong> from DFW Airport. Star schema dimensional model + Power BI dashboards revealing delay patterns, taxi-out inefficiencies, and tail-number correlations.</p>
+      <br/>
+      <a href="https://github.com/priya-zha/American-Airlines-Flight-Delay-Analytics">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>Power BI · Python · Star Schema · Dimensional Modeling</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Success Project — UNT CSE</h3>
+      <p>Collaborated with UNT's CSE department to analyze student data and predict admission decisions using <strong>ML + deep learning</strong>. Developed Tableau dashboards for academic insights.</p>
+      <br/>
+      <a href="https://github.com/priya-zha">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>Scikit-Learn · Keras · TensorFlow · Tableau · Pandas</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Real-Time Diabetes Detection — Big Data</h3>
+      <p>End-to-end big data pipeline on a <strong>4-node AWS EC2 cluster</strong> simulating real-time EHR data. Kafka → Spark Streaming → PySpark ML → Cassandra with geospatial Nepal district mapping.</p>
+      <br/>
+      <a href="https://github.com/priya-zha/BigData-Architecture-Diabetes-Prediction">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>AWS EC2 · Kafka · Spark · Hadoop · Cassandra · PySpark</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🫘 Kidney Tumor Classification</h3>
+      <p>CT scan image classifier using <strong>custom CNN + VGG transfer learning</strong>. Deployed as a Streamlit web app where users upload scans and get instant tumor/normal predictions with confidence scores.</p>
+      <br/>
+      <a href="https://github.com/priya-zha/Kidney-Tumor-Classification">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>TensorFlow · VGG · Transfer Learning · Streamlit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Stock Market Forecasting — LSTM</h3>
+      <p>LSTM-powered web app forecasting <strong>Tesla stock prices</strong> using historical data from Yahoo Finance. Users pick a date range and get interactive Plotly forecasts with a data table.</p>
+      <br/>
+      <a href="https://github.com/priya-zha/timeseries">
+        <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <code>Keras · LSTM · yfinance · Plotly · Streamlit</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `> cat experience.log`
+## 💼 Experience
 
-```bash
-$ cat experience.log
+<p align="center">
 
-[Jan 2026 - Present]  🏢 AI/ML Engineer @ Phylactics Inc, Texas
-                       → Multi-modal Women's Health & Diagnostic Platform
-                       → CNN + Transfer Learning for biomedical image classification
-                       → Integrated AI models into web/mobile for real-time health insights
+  <img src="https://img.shields.io/badge/Jan%202026%20–%20Present-A855F7?style=for-the-badge&logoColor=white" />
 
-[Jun 2025 - Dec 2025]  📊 Data Analytics Intern @ Group O, Texas
-                       → Microsoft Fabric Lakehouse (Medallion: Bronze → Silver → Gold)
-                       → Snowflake schema dimensional models from Microsoft D365 ERP
-                       → Power BI dashboards → improved decision-making speed by 30%
-                       → Reduced Finance team manual effort by ~60% via automated pipelines
+</p>
 
-[Aug 2020 - May 2023]  👩‍🏫 Guided Project Instructor @ Coursera Inc, California
-                       → Taught Data Science & ML to thousands of learners worldwide
-                       → COVID-19 Detection, Diabetes Prediction, Breast Cancer Classification
-```
+### 🔬 AI / ML Engineer — *Phylactics Inc, Texas*
+
+> Building a **Multi-Modal Women's Health & Diagnostic Platform** — developing CNN and transfer learning models for biomedical image classification, integrating trained AI into a web/mobile platform for real-time health insights, and performing hyperparameter tuning for clinical-grade reliability.
 
 ---
 
-## `> cat achievements.txt`
+<p align="center">
 
-```bash
-$ cat achievements.txt
+  <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
 
-🏆  Delegates Award Winner — W4A 2025 (VisualAid paper, Web for All Conference)
-📄  Published Researcher — "VisualAid: Enhancing Accessibility for Visually Impaired Users Through AI"
-         → W4A '25, https://doi.org/10.1145/3744257.3744277
-🎓  GHC Scholar 2024 — AnitaB.org Advancing Inclusion Scholarship, Grace Hopper Celebration
-🥇  ICT Award Nepal 2020 Finalist — Top finalist among 300+ applicants for COVID-19 Detection project
-🏅  National Locus Exhibition Winner — "Smart Street Monitoring System" (Thematic Electrical)
-🌍  Top 10 Finalist — Hult Prize Nepal (global social impact competition for university students)
-💻  Secretary Officer — ACM-W (Association for Computing Machinery for Women)
-👩‍💻  Member — Women in Computing @ UNT
-☁️  Event Organizer — Girl To Code (with Girls in Tech, teaching cloud computing to young girls)
-🧑‍💻  Organizer — Yomari Code Camp (platform for students & researchers to develop ideas into apps)
-⚡  Participant — UNT Annual Hackathon (Food Alert App for real-time university food availability)
-🔬  Participant — Quantum Hackathon & Everest Hackathon, Nepal
-🔭  Participant — Summer Research Bootcamp @ UNT (Hearing Aid ML research)
-```
+</p>
+
+### 📊 Data Analytics Intern — *Group O, Texas*
+
+> Designed **Microsoft Fabric Lakehouses** (Medallion Bronze → Silver → Gold) unifying ERP data from **Microsoft D365** across finance, sales, and inventory. Built **Power BI dashboards** that improved leadership decision-making speed by **30%** and slashed Finance team manual effort by **~60%** through automated pipelines.
+
+**Key deliverables:** Inventory & Shipment Billing Analytics · Sales Quotation Reporting · Prepaid Cards Platform Activity Dashboard
+
+---
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Aug%202020%20–%20May%202023-EC4899?style=for-the-badge&logoColor=white" />
+
+</p>
+
+### 👩‍🏫 Guided Project Instructor — *Coursera Inc, California*
+
+> Designed and delivered end-to-end **Data Science & ML projects** to thousands of learners worldwide — covering COVID-19 Detection (CNN), Diabetes Prediction (PySpark MLlib), and Breast Cancer Classification (ML algorithms).
+
+---
+
+## 🏆 Achievements & Community
+
+<p align="center">
+
+| 🥇 Award / Achievement | 📍 Details |
+|---|---|
+| 🏆 **Delegates Award Winner** | W4A 2025 — Web for All Conference (VisualAid paper) |
+| 📄 **Published Researcher** | [VisualAid @ W4A '25](https://doi.org/10.1145/3744257.3744277) — ACM Digital Library |
+| 🎓 **GHC Scholar 2024** | AnitaB.org Advancing Inclusion Scholarship — Grace Hopper Celebration |
+| 🥈 **ICT Award Nepal 2020 Finalist** | Top finalist among 300+ applicants — COVID-19 Pneumonia Detection |
+| 🏅 **National Locus Exhibition Winner** | Smart Street Monitoring System — Thematic Electrical category |
+| 🌍 **Hult Prize Top 10 — Nepal** | Global social impact competition for university students |
+| 👩‍💼 **Secretary Officer @ ACM-W** | Association for Computing Machinery for Women |
+| 👩‍💻 **Member — Women in Computing** | University of North Texas chapter |
+| ☁️ **Event Organizer — Girl To Code** | Teaching cloud computing to young girls (with Girls in Tech) |
+| 🧑‍💻 **Organizer — Yomari Code Camp** | Platform for students & researchers to build real apps |
+| ⚡ **UNT Annual Hackathon** | Built a real-time food availability alert app for university students |
+| 🔬 **Quantum & Everest Hackathon** | Nepal hackathon participant |
+| 🔭 **Summer Research Bootcamp @ UNT** | ML research on hearing aid adoption factors |
+
+</p>
 
 ---
 
@@ -180,22 +279,6 @@ $ cat achievements.txt
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priya-zha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=FF6B6B" />
 </p>
-
----
-
-## `> cat current_mission.txt`
-
-```bash
-$ cat current_mission.txt
-
-[ACTIVE]  🤖 AI/ML Engineer @ Phylactics Inc — Multi-modal Women's Health Platform
-[ACTIVE]  🧠 Building with LLMs, RAG pipelines & Agentic AI
-[ACTIVE]  📚 Deep diving into multimodal AI & vision-language models
-[ACTIVE]  🏆 W4A 2025 Delegates Award Winner — VisualAid published research
-[ACTIVE]  👩‍💼 Secretary Officer @ ACM-W
-[QUEUED]  🌍 Contributing to open-source AI tools
-[QUEUED]  📝 Writing about AI on technical blogs
-```
 
 ---
 
