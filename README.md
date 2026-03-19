@@ -26,6 +26,7 @@ class PriyaJha:
         self.passion     = "Building AI systems that actually work in the real world"
         self.currently   = "Multi-modal AI, LLMs, RAG pipelines & Agentic AI"
         self.published   = "VisualAid @ W4A 2025 — Delegates Award Winner 🏆"
+        self.coursera    = "200,000+ students taught across 170+ countries 🌍"
         self.fun_fact    = "I debug ML models the same way I debug life — one layer at a time 🧠"
 
     def say_hi(self):
@@ -229,7 +230,12 @@ me.say_hi()
 
 ### 🔬 AI / ML Engineer — *Phylactics Inc, Texas*
 
-> Building a **Multi-Modal Women's Health & Diagnostic Platform** — developing CNN and transfer learning models for biomedical image classification, integrating trained AI into a web/mobile platform for real-time health insights, and performing hyperparameter tuning for clinical-grade reliability.
+Working on a **Multi-Modal Women's Health & Diagnostic Platform** — an AI system designed to detect and diagnose women's health conditions from medical image data.
+
+- 🧬 Conducted literature review of biomedical AI research to identify state-of-the-art deep learning approaches for medical image classification
+- 🏗️ Developed **CNN-based and transfer learning models** for biomedical image classification — including preprocessing, augmentation, and model training to detect diagnostic patterns
+- 🎯 Performed **hyperparameter tuning and model validation** to improve accuracy, robustness, and reliability for clinical-style datasets
+- 📱 Integrated trained AI models into a **web/mobile application platform** enabling real-time analysis and AI-assisted health insights for users
 
 ---
 
@@ -239,9 +245,20 @@ me.say_hi()
 
 ### 📊 Data Analytics Intern — *Group O, Texas*
 
-> Designed **Microsoft Fabric Lakehouses** (Medallion Bronze → Silver → Gold) unifying ERP data from **Microsoft D365** across finance, sales, and inventory. Built **Power BI dashboards** that improved leadership decision-making speed by **30%** and slashed Finance team manual effort by **~60%** through automated pipelines.
+Designed and implemented **Snowflake schema dimensional models** in **Microsoft Fabric** (Lakehouse, OneLake, SQL Endpoints, Dataflows Gen2, Data Factory) to unify disparate data from **ERP Microsoft D365** across finance, sales, and inventory.
 
-**Key deliverables:** Inventory & Shipment Billing Analytics · Sales Quotation Reporting · Prepaid Cards Platform Activity Dashboard
+- 📈 Built **Power BI dashboards** and semantic models enabling self-service analytics and anomaly detection — improving leadership decision-making speed by **30%**
+- ⚙️ Utilized complex **SQL queries and PySpark** for data analysis, transformation, validation, and KPI computation on large-scale datasets
+- 🔄 Orchestrated **daily automated refresh** using Fabric Data Factory Pipelines, ensuring near real-time inventory insights across all business units
+- 🏗️ Architected an enterprise **Data Lakehouse** (Medallion: Bronze → Silver → Gold) covering supply chain analytics — reducing Finance team manual effort by **~60%**
+
+**Key deliverables:**
+
+&nbsp;&nbsp;&nbsp;📦 **Inventory & Shipment Billing Analytics** — end-to-end supply chain + billing KPIs for Finance
+
+&nbsp;&nbsp;&nbsp;💼 **Sales Quotation Reporting** — customer-level quotes & pricing visibility for Packaging team
+
+&nbsp;&nbsp;&nbsp;💳 **Prepaid Cards Platform Activity** — fraud indicators, card behavior patterns & executive dashboards for Marketing
 
 ---
 
@@ -249,9 +266,31 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Aug%202020%20–%20May%202023-EC4899?style=for-the-badge&logoColor=white" />
 </p>
 
-### 👩‍🏫 Guided Project Instructor — *Coursera Inc, California*
+### 👩‍🏫 Guided Project Instructor — *Coursera Inc | Mountain View, California*
 
-> Designed and delivered end-to-end **Data Science & ML projects** to thousands of learners worldwide — covering COVID-19 Detection (CNN), Diabetes Prediction (PySpark MLlib), and Breast Cancer Classification (ML algorithms).
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍%20200%2C000%2B%20Students-FF6B6B?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🗺️%20170%2B%20Countries-00C49F?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+</p>
+
+Designed and delivered **hands-on, end-to-end Data Science & Engineering projects** to **200,000+ learners across 170+ countries** on Coursera — covering cutting-edge topics across AI, ML, Deep Learning, Big Data, Blockchain, NFTs, and modern development.
+
+- 🤖 **AI & Machine Learning** — Concepts of ML, supervised/unsupervised learning, model evaluation & deployment
+- 🧠 **Deep Learning** — CNN architectures, transfer learning, image classification, medical AI
+- ⚡ **Big Data Engineering** — PySpark MLlib, Spark, distributed training, large-scale pipelines
+- 🔗 **Blockchain & NFTs** — Emerging tech, decentralized systems, smart contract concepts
+- 🌐 **Development** — End-to-end project development, deployment & real-world applications
+
+**Signature projects taught:**
+
+&nbsp;&nbsp;&nbsp;🫁 **COVID-19 & Pneumonia Detection** — Deep learning on chest X-ray images using CNN architectures
+
+&nbsp;&nbsp;&nbsp;🔬 **Diabetes Prediction System** — PySpark MLlib with feature engineering & distributed training
+
+&nbsp;&nbsp;&nbsp;🎗️ **Breast Cancer Classification** — Random Forest, SVM & Logistic Regression with cross-validation
 
 ---
 
@@ -264,9 +303,10 @@ me.say_hi()
 | 🏆 **Delegates Award Winner** | W4A 2025 — Web for All Conference (VisualAid paper) |
 | 📄 **Published Researcher** | [VisualAid @ W4A '25](https://doi.org/10.1145/3744257.3744277) — ACM Digital Library |
 | 🎓 **GHC Scholar 2024** | AnitaB.org Advancing Inclusion Scholarship — Grace Hopper Celebration |
+| 🌍 **200K+ Learners Worldwide** | Taught on Coursera across 170+ countries — AI, ML, Big Data, Blockchain |
 | 🥈 **ICT Award Nepal 2020 Finalist** | Top finalist among 300+ applicants — COVID-19 Pneumonia Detection |
 | 🏅 **National Locus Exhibition Winner** | Smart Street Monitoring System — Thematic Electrical category |
-| 🌍 **Hult Prize Top 10 — Nepal** | Global social impact competition for university students |
+| 🌐 **Hult Prize Top 10 — Nepal** | Global social impact competition for university students |
 | 👩‍💼 **Secretary Officer @ ACM-W** | Association for Computing Machinery for Women |
 | 👩‍💻 **Member — Women in Computing** | University of North Texas chapter |
 | ☁️ **Event Organizer — Girl To Code** | Teaching cloud computing to young girls (with Girls in Tech) |
