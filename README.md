@@ -244,21 +244,6 @@ Working on a **Multi-Modal Women's Health & Diagnostic Platform** — an AI syst
   <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🔓 Open Source Contributor — *Expensify*
-
-Contributed to **Expensify**, a leading open-source expense management platform used by millions worldwide.
-
-- 🐛 Identified and resolved bugs across the React Native mobile codebase and web application
-- 🔧 Submitted pull requests improving UI/UX consistency and fixing reported issues
-- 📋 Engaged with the open-source community through issue tracking, code reviews, and collaborative problem-solving
-- 🌐 Contributed to a **top open-source project** on GitHub with an active global contributor community
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
-</p>
-
 ### 📊 Data Analytics Intern — *Group O, Texas*
 
 Designed and implemented **Snowflake schema dimensional models** in **Microsoft Fabric** (Lakehouse, OneLake, SQL Endpoints, Dataflows Gen2, Data Factory) to unify disparate data from **ERP Microsoft D365** across finance, sales, and inventory.
@@ -307,6 +292,21 @@ Designed and delivered **hands-on, end-to-end Data Science & Engineering project
 &nbsp;&nbsp;&nbsp;🔬 **Diabetes Prediction System** — PySpark MLlib with feature engineering & distributed training
 
 &nbsp;&nbsp;&nbsp;🎗️ **Breast Cancer Classification** — Random Forest, SVM & Logistic Regression with cross-validation
+
+### 🔓 Open Source Contributor — *Expensify*
+
+Contributed to **Expensify**, a leading open-source expense management platform used by millions worldwide.
+
+- 🐛 Identified and resolved bugs across the React Native mobile codebase and web application
+- 🔧 Submitted pull requests improving UI/UX consistency and fixing reported issues
+- 📋 Engaged with the open-source community through issue tracking, code reviews, and collaborative problem-solving
+- 🌐 Contributed to a **top open-source project** on GitHub with an active global contributor community
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
