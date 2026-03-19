@@ -27,6 +27,7 @@ class PriyaJha:
         self.currently   = "Multi-modal AI, LLMs, RAG pipelines & Agentic AI"
         self.published   = "VisualAid @ W4A 2025 — Delegates Award Winner 🏆"
         self.coursera    = "200,000+ students taught across 170+ countries 🌍"
+        self.open_source = "Open Source Contributor @ Expensify 🔓"
         self.fun_fact    = "I debug ML models the same way I debug life — one layer at a time 🧠"
 
     def say_hi(self):
@@ -240,6 +241,21 @@ Working on a **Multi-Modal Women's Health & Diagnostic Platform** — an AI syst
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🔓 Open Source Contributor — *Expensify*
+
+Contributed to **Expensify**, a leading open-source expense management platform used by millions worldwide.
+
+- 🐛 Identified and resolved bugs across the React Native mobile codebase and web application
+- 🔧 Submitted pull requests improving UI/UX consistency and fixing reported issues
+- 📋 Engaged with the open-source community through issue tracking, code reviews, and collaborative problem-solving
+- 🌐 Contributed to a **top open-source project** on GitHub with an active global contributor community
+
+---
+
+<p align="center">
   <img src="https://img.shields.io/badge/Jun%202025%20–%20Dec%202025-6366F1?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -304,6 +320,7 @@ Designed and delivered **hands-on, end-to-end Data Science & Engineering project
 | 📄 **Published Researcher** | [VisualAid @ W4A '25](https://doi.org/10.1145/3744257.3744277) — ACM Digital Library |
 | 🎓 **GHC Scholar 2024** | AnitaB.org Advancing Inclusion Scholarship — Grace Hopper Celebration |
 | 🌍 **200K+ Learners Worldwide** | Taught on Coursera across 170+ countries — AI, ML, Big Data, Blockchain |
+| 🔓 **Open Source Contributor** | Expensify — React Native & web contributions |
 | 🥈 **ICT Award Nepal 2020 Finalist** | Top finalist among 300+ applicants — COVID-19 Pneumonia Detection |
 | 🏅 **National Locus Exhibition Winner** | Smart Street Monitoring System — Thematic Electrical category |
 | 🌐 **Hult Prize Top 10 — Nepal** | Global social impact competition for university students |
