@@ -24,7 +24,7 @@ class PriyaJha:
         self.languages   = ["Python", "Java", "HTML/CSS", "SQL"]
         self.speaks      = ["English", "Hindi", "Nepali"]
         self.passion     = "Building AI systems that actually work in the real world"
-        self.currently   = "Multi-modal AI, LLMs, RAG pipelines & Agentic AI"
+        self.currently   = "Multi-modal AI, LLMs, RAG pipelines & Agentic AI - GPT, LLama, Claude"
         self.published   = "VisualAid @ W4A 2025 — Delegates Award Winner 🏆"
         self.teaching    = "200,000+ students on Coursera + Udemy across 170+ countries 🌍"
         self.open_source = "Open Source Contributor @ Expensify 🔓"
